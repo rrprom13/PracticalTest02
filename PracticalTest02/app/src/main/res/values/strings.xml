@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="set">Set</string>
+    <string name="reset">Reset</string>
+    <string name="poll">Poll</string>
+    <string name="start_stop">Start / Stop server</string>
+    <string name="port">Port</string>
+    <string name="date">Date</string>
+</resources>
